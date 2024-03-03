@@ -2,4 +2,4 @@
 Repositorio pair programming Franca y Jessica
 
 
-Este repo sirve para guardar los ejercicios de pairprogramming
+Este repo sirve para subir los ejercicios de PairProgramming
